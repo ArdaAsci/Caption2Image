@@ -1,6 +1,6 @@
-/eee443_project_dataset_test.h5 - Given test dataset
-/eee443_project_dataset_train.h5 - Given training dataset
-/encoded_test_captions.pt - Test captions encoded by CLIP model as torch.Tensor
+data/eee443_project_dataset_test.h5 - Given test dataset
+data/eee443_project_dataset_train.h5 - Given training dataset
+data/encoded_test_captions.pt - Test captions encoded by CLIP model as torch.Tensor
 data/encoded_train_captions.pt - Train captions encoded by CLIP model as torch.Tensor
 data/healty_test_urls.npy - Indicates which test urls are healthy as numpy.ndarray
 data/healty_train_urls.npy - Indicates which train urls are healthy as numpy.ndarray
