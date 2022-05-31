@@ -1,3 +1,5 @@
+NOTE: The actual data is in the Google Drive link given in the repo description !!
+
 data/encoded_test_captions.pt --------------> Test captions encoded by CLIP model as torch.Tensor
 data/encoded_test_X.pt ---------------------> Test images encoded by CLIP model as torch.Tensor
 data/encoded_train_captions.pt -------------> Train captions encoded by CLIP model as torch.Tensor
