@@ -11,6 +11,6 @@ The model has been trained with the [COCO](https://cocodataset.org/#home) datase
 You can find some useful preprocessed data in [this Google Drive folder](https://drive.google.com/drive/folders/1gw4j5XpmVWs2Z5xzixmuullZ6VdrBJ6r). The descriptions for each of the files can be found in the data/ folder of this repo.
 
 ## Authors
-Abdullah Arda Aşcı
-[Ali Necat Karakuloğlu](https://github.com/alinecat)
-[Osman Buğra Aydın](https://github.com/kiraci)
+Abdullah Arda Aşcı  
+[Ali Necat Karakuloğlu](https://github.com/alinecat)  
+[Osman Buğra Aydın](https://github.com/kiraci)  
