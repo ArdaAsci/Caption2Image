@@ -1,5 +1,3 @@
-data/eee443_project_dataset_test.h5 --------> Given test dataset
-data/eee443_project_dataset_train.h5 -------> Given training dataset
 data/encoded_test_captions.pt --------------> Test captions encoded by CLIP model as torch.Tensor
 data/encoded_test_X.pt ---------------------> Test images encoded by CLIP model as torch.Tensor
 data/encoded_train_captions.pt -------------> Train captions encoded by CLIP model as torch.Tensor
